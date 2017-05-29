@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00838f</color>
+    <color name="colorPrimaryDark">#006064</color>
+    <color name="colorAccent">#6d4c41</color>
+    <color name="welcome_sign">#0097a7</color>
+    <color name="button_background">#81c784</color>
+    <color name="do_unjumble_edittext">#7fa87f</color>
+    <color name="level_select_easy">#00838f</color>
+    <color name="level_select_easy2">#00bfa5</color>
+    <color name="level_select">#7cb342</color>
+    <color name="jumble_word">#006064</color>
+    <color name="white">#ffffff</color>
+    <color name="score">#d50000</color>
+    <color name="do_unjumble_text">#0ee579</color>
+    <color name="colorAccent2">#d84315</color>
+</resources>
